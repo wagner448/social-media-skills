@@ -1,5 +1,5 @@
 ---
-# Newsletter Archetype Defaults
+# Newsletter-Archetype-Defaults
 
 Loaded when a user runs newsletter-voice without sample newsletters. Each archetype provides default structure. Always tune every field using voice.md and about-me.md before writing newsletter-voice.md. Flag inside the output that archetype defaults were used and recommend revisiting after 5 published issues.
 ---
